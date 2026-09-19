@@ -170,8 +170,8 @@ docker run --rm \
 ```
 
 Append `--spec test/specs/<name>.e2e.js` to the `wdio run` command to run a
-single spec — for example `exporter-accreditation`, `accreditation` (the
-reprocessor journey), or `query-resubmit`.
+single spec — for example `operator-accreditation` (the reprocessor journey),
+`exporter-accreditation`, or `query-resubmit`.
 
 ### 6. Tear down
 
